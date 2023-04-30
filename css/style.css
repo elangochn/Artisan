@@ -10557,7 +10557,7 @@ html.boxed body {
 	position: relative;
 	display: inline-block;
 	overflow: hidden;
-	font-size: 320px;
+	font-size: 200px;
 	line-height: 85%;
 	font-weight: 600;
 	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -10573,7 +10573,7 @@ html.boxed body {
 
 @media (min-width: 576px) {
 	.text-img {
-		font-size: 410px;
+		font-size: 250px;
 		height: 355px;
 	}
 }
@@ -17394,7 +17394,7 @@ h1 + .tabs-line {
 }
 
 .counter-amy-number {
-	font-size: 110px;
+	font-size: 60px;
 	line-height: 0.8;
 	font-weight: 300;
 	letter-spacing: .1em;
@@ -17407,7 +17407,7 @@ h1 + .tabs-line {
 }
 
 .counter-amy-number .symbol {
-	font-size: 70px;
+	font-size: 30px;
 	letter-spacing: 0;
 	margin-left: -8px;
 }
