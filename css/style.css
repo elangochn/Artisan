@@ -3766,8 +3766,9 @@ hr {
 
 .btn-primary:hover {
 	color: #ffffff;
-	background: #000000;
-	border-color: #000000;
+	background: #2e66c2;
+	border-color: #2e66c2;
+    text-emphasis-color: #FFFFFF;
 }
 
 .button-pipaluk {
@@ -6306,7 +6307,7 @@ textarea.textarea-lg {
 	padding: 10px 15px;
 	min-width: 230px;
 	transform: translate3d(-50%, 0, 0);
-	background: #ffffff;
+	background: #2e66c2;
 	pointer-events: none;
 	transition: all .3s ease;
 }
@@ -6314,6 +6315,7 @@ textarea.textarea-lg {
 .thumbnail-classic-caption > [class*='thumbnail-classic-'] {
 	pointer-events: auto;
 }
+
 
 .thumbnail-classic-title-wrap > * {
 	display: inline-block;
@@ -6340,6 +6342,7 @@ textarea.textarea-lg {
 
 .thumbnail-classic-title {
 	color: #2e66c2;
+    text-emphasis-color:#ffffff;
 }
 
 .thumbnail-classic-title a, .thumbnail-classic-title a:focus, .thumbnail-classic-title a:active {
@@ -6347,7 +6350,7 @@ textarea.textarea-lg {
 }
 
 .thumbnail-classic-title a:hover {
-	color: rgba(102, 137, 255, 0.5);
+	color:#ffffff;
 }
 
 .thumbnail-classic-text {
@@ -6422,6 +6425,7 @@ textarea.textarea-lg {
 		opacity: 1;
 		visibility: visible;
 		transform: none;
+
 	}
 }
 
